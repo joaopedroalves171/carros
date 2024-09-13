@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Corolla",
+        "image": "/public/images/corolla.png",
+        "type": "Sedan Medio",
+        "initialValue": "R$ 93,00",
+        "totalValue": "R$ 93,00",
+        "transmission": "Automatico",
+        "bag": "460kg"
+    },
+
+    {
+        "id": 2,
+        "name": "Gm Onix",
+        "image": "/public/images/onix.png",
+        "type": "Hacth Médio",
+        "initialValue": "R$ 77,00",
+        "totalValue": "R$ 77,00",
+        "transmission": "Manual",
+        "bag": "320kg"
+    },
+
+    {
+        "id": 3,
+        "name": "Fiat Mobi",
+        "image": "/public/images/mob.png",
+        "type": "Hacth Médio",
+        "initialValue": "R$ 6,00",
+        "totalValue": "R$ 56,00",
+        "transmission": "Manual",
+        "bag": "120kg"
+    },
+
+    {
+        "id": 4,
+        "name": "VW Nivus",
+        "image": "/public/images/nivus.png",
+        "type": "SUV",
+        "initialValue": "R$ 122,00",
+        "totalValue": "R$ 122,00",
+        "transmission": "Automatico",
+        "bag": "460kg"
+    }
+]
